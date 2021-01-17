@@ -10,7 +10,7 @@
 }
 .logo{
 	background-color: white;
-	border-radius: 100px;
+	border-radius: 50%;
 }
 .btn-block{
 	background-color: white;
@@ -29,10 +29,11 @@ a:hover{
 	margin-bottom: 15px;
 }
 .carousel .carousel-item {
-    max-height: 800px; 
+	max-height: 800px;
 }
 .carousel .carousel-item img {
-      max-height: 800px; 
+	  max-height: 800px; 
+	  /*max-width: 80%;*/
   }
 .carousel-caption{
 	font-size: 25px;
