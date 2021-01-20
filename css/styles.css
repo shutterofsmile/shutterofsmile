@@ -32,7 +32,7 @@ a:hover{
 	max-height: 800px;
 }
 .carousel .carousel-item img {
-	  max-height: 800px; 
+	  max-height: 1200px; 
 	  /*max-width: 80%;*/
   }
 .carousel-caption{
@@ -117,4 +117,7 @@ address{
 #history{
 	margin-top: 20px;
 	font-size: 20px;
+}
+#hide{
+	visibility: hidden;
 }
